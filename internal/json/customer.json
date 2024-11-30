@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Andi Surya",
+    "phone_number": "081234567890",
+    "dob": "1990-01-01T00:00:00Z"
+  },
+  {
+    "name": "Budi Santoso",
+    "phone_number": "081111111111",
+    "dob": "1995-05-05T00:00:00Z"
+  },
+  {
+    "name": "Cici Sari",
+    "phone_number": "081222222222",
+    "dob": "1992-02-02T00:00:00Z"
+  },
+  {
+    "name": "Dedi Kurniawan",
+    "phone_number": "081333333333",
+    "dob": "1993-03-03T00:00:00Z"
+  }
+]
