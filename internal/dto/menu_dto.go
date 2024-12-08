@@ -1,6 +1,8 @@
 package dto
 
-import "time"
+import (
+	"time"
+)
 
 // MenuDTO represents a menu dto
 type MenuDTO struct {
